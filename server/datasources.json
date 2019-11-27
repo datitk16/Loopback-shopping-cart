@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "shoppingMongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "shipping-cart",
+    "password": "",
+    "name": "shoppingMongodb",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
